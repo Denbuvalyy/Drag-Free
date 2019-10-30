@@ -195,8 +195,10 @@ namespace GraphicObjects8
             GDocument.Shapes = Shapes;
             bin.Serialize(stream,GDocument);
             stream.Close();
-        }        
-                
+        }
+
+       
+
         private void sameLevelToolStripMenuItem_Click(object sender, EventArgs e)
         {
             level = count;
