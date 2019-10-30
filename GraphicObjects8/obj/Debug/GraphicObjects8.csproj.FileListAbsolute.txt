@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\obj\Debug\GraphicObjects8.Properties.Resources.resources
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\obj\Debug\GraphicObjects8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\obj\Debug\GraphicObjects8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\bin\Debug\GraphicObjects8.exe.config
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\bin\Debug\GraphicObjects8.exe
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\bin\Debug\GraphicObjects8.pdb
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\obj\Debug\GraphicObjects8.exe
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\obj\Debug\GraphicObjects8.pdb
+C:\Users\User\source\repos\GraphicObjects8\GraphicObjects8\obj\Debug\GraphicObjects8.GameForm.resources
